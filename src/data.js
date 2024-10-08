@@ -6,7 +6,7 @@ function chillHop() {
     {
       name: "Jeepers creepers",
       cover:
-"https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6.png",
+"https://geronimo.okol.org/~pauala/kuvia/trumpet.jfif",
       artist: "Pauli",
       audio:
 "https://geronimo.okol.org/~pauala/musaa/jeepers%20creepers%20v8.mp3",

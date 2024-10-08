@@ -5,13 +5,13 @@ import React from "react";
 const Nav = ({ setLibraryStatus, libraryStatus }) => {
     return (
         <nav>
-            <h1>GeeksforGeeks Music Player</h1>
+            <h1>GeeksforGeeks Musiikkisoitin (https://www.geeksforgeeks.org/)</h1>
             <button
                 onClick={() => {
                     setLibraryStatus(!libraryStatus);
                 }}
             >
-                <h4>Library</h4>
+                <h4>Kirjasto</h4>
             </button>
         </nav>
     );
